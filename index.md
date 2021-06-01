@@ -1,5 +1,7 @@
 ---
-title: "Welcome to my blog"
+title: "Welcome to my page"
 ---
 
-I'm glad you are here. I plan to talk about ...
+
+
+I just want to say that the last book of "Wheel of Time", "A Memory of Light" is soooooo good. 
