@@ -12,7 +12,7 @@ My name is Alex Sanchez and I am a software developer 💻, collaborator, remote
 
 Currently, I work as a software product lead and individual contributor for a cross-platform data center modeling GUI application written in C++/Qt used as part of a suite of DCIM (Data center infrastructure management) tools.
 
-I have over 7 years of professional software development experience writing C++, Qt framework, Python, and Golang (primarily the former).
+I have over 9 years of professional software development experience writing C++, Qt framework, Python, and Golang (primarily the former).
 
 My passion lies in creating the most performant, efficient, memory-safe, and inutitive software products possible while collaborating with others, continuosuly improving my skillsets, and expanding my knowledge. I look foward to working together and hope you'll reach out!
 
